@@ -1,0 +1,16 @@
+*{
+    font-size: 25px;
+    color: #02FF00;
+    background-color: black;
+}
+
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+img {
+    width: 880px;
+    height: 500px;
+}
+
